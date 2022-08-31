@@ -55,8 +55,8 @@ class Persona:
                 break
 
 
-a = Persona("roberto", "43060864", 15)
-b = Persona("cristian", "43050402", "21")
+a = Persona("matias", "43060864", 15)
+b = Persona("pato", "43050402", "21")
 a.mostrar()
 a.mayorEdad()
 b.mostrar()
